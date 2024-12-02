@@ -1,0 +1,53 @@
+ 
+New instance of bashtop version: 0.9.25 Pid: 7940
+ 
+New instance of bashtop version: 0.9.25 Pid: 8112
+ 
+New instance of bashtop version: 0.9.25 Pid: 9483
+gstty: 'standard input': unable to perform all requested operations
+21:24:18 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 11894
+gstty: 'standard input': unable to perform all requested operations
+21:24:58 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 13838
+gstty: 'standard input': unable to perform all requested operations
+21:37:07 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 41500
+ 
+New instance of bashtop version: 0.9.25 Pid: 46776
+gstty: 'standard input': unable to perform all requested operations
+21:39:37 ERROR: On line 596 
+gstty: 'standard input': unable to perform all requested operations
+22:07:52 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 22289
+gstty: 'standard input': unable to perform all requested operations
+22:24:11 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 34117
+ 
+New instance of bashtop version: 0.9.25 Pid: 25932
+gstty: 'standard input': unable to perform all requested operations
+10:44:03 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 6750
+/usr/local/bin/bashtop: line 1465: ((: /Applications: syntax error: operand expected (error token is "/Applications")
+/usr/local/bin/bashtop: line 1466: ((: /Applications: syntax error: operand expected (error token is "/Applications")
+/usr/local/bin/bashtop: line 1468: /: syntax error: operand expected (error token is "/")
+gstty: 'standard input': unable to perform all requested operations
+19:07:36 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 39695
+gstty: 'standard input': unable to perform all requested operations
+12:44:33 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 71589
+gstty: 'standard input': unable to perform all requested operations
+17:03:24 ERROR: On line 596 
+ 
+New instance of bashtop version: 0.9.25 Pid: 77894
+gstty: 'standard input': unable to perform all requested operations
+17:06:47 ERROR: On line 596 

@@ -1,0 +1,117 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "padding": {
+      "top": 2,
+    },
+  },
+  "display": {
+    "separator": "",
+    "key": {
+      "width": 19,
+    },
+  },
+  "modules": [
+    {
+      "key": "╭───────────────╮",
+      "type": "custom",
+    },
+    {
+      // draw borders first to make colors of left and right border consistant
+      "key": "│               │\u001b[15D\u001b[31m user",
+      "type": "title",
+      "format": "{1}",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[32m󰇅 hostname",
+      "type": "title",
+      "format": "{2}",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[33m󰍛 cpu",
+      "type": "cpu",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[34m󰍹 display",
+      "type": "display",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[35m󰅐 uptime",
+      "type": "uptime",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[36m󰟾 distro",
+      "type": "os",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[31m kernel",
+      "type": "kernel",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[32m󰏖 packages",
+      "type": "packages",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[33m󰇄 desktop",
+      "type": "de",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[34m wm",
+      "type": "wm",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[35m terminal",
+      "type": "terminal",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[36m shell",
+      "type": "shell",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[31m terminalfont",
+      "type": "terminalfont",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[32m󰉼 theme",
+      "type": "theme",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[33m󰀻 icons",
+      "type": "icons",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[34m󰸉 wallpaper",
+      "type": "wallpaper",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[35m memory",
+      "type": "memory",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[36m locale",
+      "type": "locale",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[31m󰩟 network",
+      "type": "localip",
+      "format": "{1} ({4})",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[32m󰝚 media",
+      "type": "media",
+    },
+    {
+      "key": "├───────────────┤",
+      "type": "custom",
+    },
+    {
+      "key": "│               │\u001b[15D\u001b[m colors",
+      "type": "colors",
+      "symbol": "circle",
+    },
+    {
+      "key": "╰───────────────╯",
+      "type": "custom",
+    },
+  ],
+}

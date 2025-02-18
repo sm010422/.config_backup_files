@@ -105,6 +105,10 @@
       "type": "custom",
     },
     {
+      "key": "│           │\u001b[11D{#32}  \u001b[{#37}battery",
+      "type": "battery",
+    },
+    {
       "key": "│           │\u001b[11D{#39}  colors",
       "type": "colors",
       "symbol": "circle",

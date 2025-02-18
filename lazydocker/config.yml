@@ -1,0 +1,12 @@
+gui:
+  keybinding:
+    # 숫자 키패드로 탭 이동 설정
+    focus:
+      "1": "tabs:main"
+      "2": "tabs:project"
+      "3": "tabs:logs"
+      "4": "tabs:stats"
+      "5": "tabs:containers"
+      "6": "tabs:services"
+      "7": "tabs:images"
+      "8": "tabs:volumes"
